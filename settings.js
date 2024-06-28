@@ -50,7 +50,7 @@ global.mess = {
     success: 'Here you go!'
 }
 //thumbnail
-global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
+global.thumb = fs.readFileSync('./XeonMedia/theme/Aditya.jpg')
 
 //text bug
 global.xbugtex = {
